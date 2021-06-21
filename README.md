@@ -1,3 +1,5 @@
+原地址:https://github.com/megagao/production_ssm
+maven SSM项目
 # 欢迎报bug或pull request ~
 
 若图片不能正常显示，请点击博客地址：[制造装备物联及生产管理系统](http://www.realfond.cn/2016/12/27/%E7%94%9F%E4%BA%A7%E7%AE%A1%E7%90%86ERP%E7%B3%BB%E7%BB%9F/)
